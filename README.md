@@ -1,2 +1,2 @@
 # Todo-List
-simple todolsit in react,express.js,mongodb
+simple todolist in react,express.js,mongodb
